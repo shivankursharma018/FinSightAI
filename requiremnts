@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard] # For running the server
+pydantic
+langchain
+langchain-community
+langchain-google-genai  # LangChain integration for Gemini
+google-generativeai     # Underlying Google AI SDK
+chromadb              # Vector Store
+sentence-transformers # For embedding model (can swap if needed)
+pypdf                 # For loading PDFs during indexing
+python-dotenv         # For loading .env file
