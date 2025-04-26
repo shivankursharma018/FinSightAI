@@ -44,7 +44,7 @@ Personal Finance Advisor is a 3-in-1 tool that:
 
 ### 📚 Module 1: RAG Chat for Financial Queries
 
--   GPT-4 based AI chatbot
+-  Gemini based AI chatbot
     
 -   Trained on curated financial knowledge base
     
@@ -105,7 +105,7 @@ project/
     
 -   Frontend: Streamlit
     
--   AI: OpenAI GPT-4 + LangChain
+-   AI: Gemini + LangChain
 
 -  ML: Transformers + scikit-learn + PyTorch
     
@@ -188,7 +188,7 @@ MIT License
 
 ## 🙌 Acknowledgments
 
--   OpenAI, LangChain, Streamlit
+-   Gemini, LangChain, Streamlit
     
 -   HuggingFace (FinBERT)
     
